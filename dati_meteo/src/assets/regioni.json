@@ -1,0 +1,129 @@
+{
+    "Lombardia": [
+        "Milano",
+        "Bergamo",
+        "Brescia",
+        "Como",
+        "Pavia",
+        "Sondrio"
+    ],
+    "Lazio": [
+        "Roma",
+        "Latina",
+        "Frosinone",
+        "Viterbo",
+        "Rieti"
+    ],
+    "Campania": [
+        "Napoli",
+        "Salerno",
+        "Caserta",
+        "Benevento",
+        "Avellino"
+    ],
+    "Sicilia": [
+        "Palermo",
+        "Catania",
+        "Messina",
+        "Siracusa",
+        "Trapani"
+    ],
+    "Veneto": [
+        "Venezia",
+        "Verona",
+        "Padova",
+        "Vicenza",
+        "Treviso",
+        "Belluno"
+    ],
+    "Piemonte": [
+        "Torino",
+        "Novara",
+        "Cuneo",
+        "Asti",
+        "Alessandria",
+        "Biella"
+    ],
+    "Toscana": [
+        "Firenze",
+        "Pisa",
+        "Siena",
+        "Lucca",
+        "Arezzo",
+        "Grosseto"
+    ],
+    "Emilia-Romagna": [
+        "Bologna",
+        "Modena",
+        "Parma",
+        "Reggio Emilia",
+        "Ferrara",
+        "Ravenna"
+    ],
+    "Puglia": [
+        "Bari",
+        "Taranto",
+        "Foggia",
+        "Lecce",
+        "Brindisi",
+        "Barletta"
+    ],
+    "Calabria": [
+        "Reggio Calabria",
+        "Catanzaro",
+        "Cosenza",
+        "Crotone",
+        "Vibo Valentia"
+    ],
+    "Liguria": [
+        "Genova",
+        "La Spezia",
+        "Savona",
+        "Imperia"
+    ],
+    "Marche": [
+        "Ancona",
+        "Pesaro",
+        "Macerata",
+        "Ascoli Piceno",
+        "Fermo"
+    ],
+    "Abruzzo": [
+        "L'Aquila",
+        "Pescara",
+        "Teramo",
+        "Chieti"
+    ],
+    "Friuli-Venezia Giulia": [
+        "Trieste",
+        "Udine",
+        "Gorizia",
+        "Pordenone"
+    ],
+    "Trentino-Alto Adige": [
+        "Trento",
+        "Bolzano"
+    ],
+    "Umbria": [
+        "Perugia",
+        "Terni"
+    ],
+    "Basilicata": [
+        "Potenza",
+        "Matera"
+    ],
+    "Sardegna": [
+        "Cagliari",
+        "Sassari",
+        "Olbia",
+        "Oristano",
+        "Nuoro"
+    ],
+    "Valle d'Aosta": [
+        "Aosta"
+    ],
+    "Molise": [
+        "Campobasso",
+        "Isernia"
+    ]
+}

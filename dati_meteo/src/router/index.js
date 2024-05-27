@@ -1,32 +1,30 @@
 // src/router/index.js
 
 import { createRouter, createWebHistory } from 'vue-router';
-import TemperaturePage from '../views/TemperaturePage.vue';
-import PrecipitationPage from '../views/PrecipitationPage.vue';
+import HomeTab from '../views/HomeTab.vue';
+import GrafiTab from '../views/GrafiTab.vue';
 import Top10Page from '../views/Top10Page.vue';
-import DataEntryPage from '../views/DataEntryPage.vue';
 
 const routes = [
   {
-    path: '/temperature',
-    name: 'temperature',
-    component: TemperaturePage,
+    path: '/HomeTab',
+    name: 'HomeTab',
+    component: HomeTab,
   },
   {
-    path: '/precipitation',
-    name: 'precipitation',
-    component: PrecipitationPage,
+    path: '/GrafiTab',
+    name: 'GrafiTab',
+    component: GrafiTab,
   },
   {
-    path: '/top10',
-    name: 'top10',
+    path: '/Top10Page',
+    name: 'Top10Page',
     component: Top10Page,
   },
   {
-    path: '/data-entry',
-    name: 'data-entry',
-    component: DataEntryPage,
-  },
+    path: '/',
+    redirect: '/HomeTab'
+  }
 ];
 
 const router = createRouter({
